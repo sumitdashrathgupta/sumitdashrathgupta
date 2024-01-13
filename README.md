@@ -3,9 +3,7 @@
 <img align="right" alt="coding" width="400" src="img.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitdashrathgupta&label=Profile%20views&color=0e75b6&style=flat" alt="sumitdashrathgupta" /> </p>
 
-- 📫 How to reach me **sumitdashrathgupta111@gmail.com**
-<<h1 align="center">Hi 👋, I'm Sumit Gupta</h1>
-<h3 align="center">Web Developer</h3>
+📫 How to reach me : sumitdashrathgupta111@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
