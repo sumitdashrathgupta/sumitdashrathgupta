@@ -16,6 +16,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,redux,git,github,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,redux <br/>,git,github,mongodb" />
 </a>
 </p>
