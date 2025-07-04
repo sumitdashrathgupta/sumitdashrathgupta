@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumit Gupta</h1>
 <h2 align="center">A Full Stack Engineer building dynamic and scalable web applications</h2>
 <h3 align="center"><a href="https://sumitg-dev.netlify.app/" target="_blank">Portfolio</a></h3>
+<img align="right" alt="coding" width="400" src="img.gif">
 
 📫 How to reach me : sumitdashrathgupta111@gmail.com
 
