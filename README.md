@@ -17,6 +17,6 @@
 <p align="left">
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,redux" />
-     <img src="https://skillicons.dev/icons?i=nodejs,git,github,mongodb,androidstudio" />
+     <img src="https://skillicons.dev/icons?i=nextjs,nodejs,git,github,mongodb" />
 </a>
 </p>
